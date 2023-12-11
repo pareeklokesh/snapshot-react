@@ -1,0 +1,8 @@
+.btn-dark.active {
+  background: var(--bs-blue);
+  border-color: var(--bs-blue);
+}
+.btn-dark {
+  outline: none;
+  box-shadow: none !important;
+}
